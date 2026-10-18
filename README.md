@@ -8,7 +8,7 @@
 
 **运行前置：先安装 SillyTavern，并安装、启用酒馆助手。** 下载下面的 JSON 文件后，通过酒馆助手导入使用。
 
-[下载 5.68 脚本 JSON](https://raw.githubusercontent.com/koofer-zia/sillytavern-life-state/main/%E8%A7%92%E8%89%B2%E7%94%9F%E7%90%86%E7%8A%B6%E6%80%81%E5%BC%95%E6%93%8E-v5.68.json) · [反馈问题](https://github.com/koofer-zia/sillytavern-life-state/issues)
+[下载 5.68 正式版](https://github.com/koofer-zia/sillytavern-life-state/releases/tag/v5.68) · [反馈问题](https://github.com/koofer-zia/sillytavern-life-state/issues)
 
 ## 能做什么
 
@@ -25,7 +25,7 @@
 ## 安装与升级
 
 1. 确认 SillyTavern 已安装酒馆助手，且酒馆助手处于启用状态。
-2. 点击上方下载链接，保存 `角色生理状态引擎-v5.68.json`。若浏览器直接显示文本，请将原始文件另存为 JSON，不要保存成网页。
+2. 点击上方下载链接，在发布页的 **Assets（附件）** 中下载 `sillytavern-life-state-v5.68.json`，无需下载 Source code 压缩包。
 3. 打开酒馆助手的脚本管理／脚本库，导入这个 JSON 文件并启用。
 4. 回到聊天，找到「角色手册」，进入设置选择需要的功能。
 

@@ -80,7 +80,7 @@
 
 ## 历史版本
 
-[下载 5.11 DeepSeek 内测版整包](https://raw.githubusercontent.com/koofer-zia/sillytavern-life-state/main/%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC/%E8%A7%92%E8%89%B2%E7%94%9F%E7%90%86%E7%8A%B6%E6%80%81%E5%BC%95%E6%93%8E-ver5.11-deepseek-%E5%86%85%E6%B5%8B.zip)
+[下载 5.11 DeepSeek 内测版整包](https://github.com/koofer-zia/sillytavern-life-state/releases/tag/v5.11)
 
 ## 作者
 

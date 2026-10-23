@@ -1,0 +1,19 @@
+{
+  "display_name": "角色生理状态引擎 · SillyTavern Life State",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "dependencies": [],
+  "js": "index.js",
+  "author": "koofer-zia",
+  "version": "5.70",
+  "minimum_client_version": "1.18.0",
+  "homePage": "https://github.com/koofer-zia/sillytavern-life-state",
+  "hooks": {
+    "activate": "onActivate",
+    "enable": "onEnable",
+    "disable": "onDisable",
+    "delete": "onDelete",
+    "update": "onUpdate"
+  }
+}

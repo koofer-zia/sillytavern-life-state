@@ -4,6 +4,6 @@
   "hash_algorithm": "SHA-256",
   "public_key_spki_base64": "MCowBQYDK2VwAyEAKMO68qmztCEahN73RUPxS1JCe/pPhiIOEk5osS8sH8Q=",
   "public_key_fingerprint_sha256": "d800cc7109b386e1e6da74fadcefbaa650d93967f7753f0392047717d6ca0107",
-  "signed_payload": "{\"schema\":\"LIFE_STATE_NATIVE_RELEASE_V1\",\"version\":\"5.70\",\"github\":\"koofer-zia\",\"files\":{\".gitattributes\":\"705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da\",\"index.js\":\"91b8d7c2bda683c4b673c28ac88404df576f025f4fe4bb3b060b9ee4d087390a\",\"manifest.json\":\"5303de45e0a0cec4ccd2bd1fca8df1ed672172de9dd8de67bce6d7b690d4072e\",\"README.md\":\"c03a27581cc56fb58678aee4488a8ac4991317ac621c82771f99f4ce44b4680a\",\"runtime-31b3f0a55ce14819.js\":\"31b3f0a55ce14819c308abecca1d7e3304a81be527384f2d23ea62b957fde9a8\"}}",
-  "signature_base64": "KPNu5zbht1+/TSCAVrIDjmNPDBw5od2krjO+snoD/JtcRyNtnfi15sw6cYEvk6LCKcxCAKqhgPnLvh8Oks/WDg=="
+  "signed_payload": "{\"schema\":\"LIFE_STATE_NATIVE_RELEASE_V1\",\"version\":\"5.70\",\"github\":\"koofer-zia\",\"files\":{\".gitattributes\":\"705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da\",\"index.js\":\"91b8d7c2bda683c4b673c28ac88404df576f025f4fe4bb3b060b9ee4d087390a\",\"manifest.json\":\"5303de45e0a0cec4ccd2bd1fca8df1ed672172de9dd8de67bce6d7b690d4072e\",\"README.md\":\"c467da9c103495c3f69ab6711fa602e320d2a84420019b770e9a72cccecba8e3\",\"runtime-31b3f0a55ce14819.js\":\"31b3f0a55ce14819c308abecca1d7e3304a81be527384f2d23ea62b957fde9a8\"}}",
+  "signature_base64": "YFZ13qK4+/7bIKStWSKcKDKOJVVwhFFvqazGkP72UIsuXQhLGl20LRz5obuakSoRJYEBSEpJLFgyfH7LvpWYAQ=="
 }
